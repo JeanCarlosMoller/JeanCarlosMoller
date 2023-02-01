@@ -10,4 +10,7 @@
 
 <div style="display: inline_block" align="center"><br>
   <a href="https://www.linkedin.com/in/jeancarlosmoller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![good-fine](https://user-images.githubusercontent.com/11274857/215940330-a11413fc-b533-48d7-8b07-d1873e265fcf.gif)
+
 </div>
